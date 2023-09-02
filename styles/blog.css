@@ -1,7 +1,11 @@
 div{
     background-color: tomato;
+<<<<<<< HEAD
     padding: 20px;
 }
 p{
 
+=======
+    padding-left: 10px;
+>>>>>>> 3453db213391e465a6b26180827f9c1893bc00c5
 }
